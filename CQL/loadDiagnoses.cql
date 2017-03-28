@@ -1,0 +1,1 @@
+//query for loading Diagnoses
