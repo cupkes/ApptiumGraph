@@ -1,0 +1,7 @@
+// query for loading diagnosis to treatment plan relations
+LOAD CSV WITH HEADERS
+FROM "FILE:///DTPrelations.csv"
+AS row
+MATCH (d:Diagnosis {id:row.diagnosisId})
+MATCH (t:TreatmentPlan {id:row.processMetaDataId})
+MERGE (d)-[:LEADS_TO]->(t);
