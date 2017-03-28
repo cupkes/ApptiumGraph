@@ -1,0 +1,176 @@
+aspect,id,ActiveState,description,name
+LOB does not match Device Type,SYM_3c392d1f-4d9e-4796-9e56-49b1914fef66,(empty),(empty),LOB does not match Device Type
+Walled Garden Bootfile Found,SYM_642b8450-a9b9-4fe2-942e-b5c84d96b050,(empty),(empty),Walled Garden Bootfile Found
+Plant Integrity Out of Range,SYM_f1f2f02b-0e9d-4b4d-8791-c92783bbeffe,(empty),(empty),Plant Integrity Out of Range
+Residential Account,SYM_8ae4bcb2-531f-4907-a651-ca0e402a1eaf,(empty),(empty),Residential Account
+Cold Tap,SYM_842398ea-c1a3-46ea-a6ab-64f863bd8f25,(empty),(empty),Cold Tap
+Seasonal Bootfile Found,SYM_23fe12d3-bf72-4666-8f86-f09dfa27ecf4,(empty),(empty),Seasonal Bootfile Found
+Seasonal Suspend State Found,SYM_b71324d3-aa0e-47cd-ad90-2dcebbb8c8bb,(empty),(empty),Seasonal Suspend State Found
+Bootfile Mismatch Found,SYM_40d6f747-3f05-478d-a802-f410c426ed49,(empty),(empty),Bootfile Mismatch Found
+HIC score Out of Range,SYM_3921710b-94b2-4345-b71c-fb6ecdf4783c,(empty),(empty),HIC score Out of Range
+Pre-Paid Walled Garden Bootfile Found,SYM_5f5f41d5-79fe-432f-9754-3680ba6fed7b,(empty),(empty),Pre-Paid Walled Garden Bootfile Found
+NEVERTAP,SYM_0150ce63-06cc-4f5a-916f-3bb86b46dc28,(empty),(empty),NEVERTAP
+Abuse Bootfile Found,SYM_66dece39-36cf-4b10-834e-8cb832e6bed1,(empty),(empty),Abuse Bootfile Found
+Account Disconnect Reason- Soft Disconnect,SYM_7b521a21-eaa2-4218-a4a7-50fda85a1820,(empty),(empty),Account Disconnect Reason- Soft Disconnect
+Measured SUCKOUT is HIGH,SYM_c51f5c6c-9a51-41a5-a230-e51d4e00f2c0,(empty),(empty),Measured SUCKOUT is HIGH
+SWAP Program Identified,SYM_64481e50-a84c-41f8-94ed-60db16ffb7e2,(empty),(empty),SWAP Program Identified
+SWAP Program Not Found,SYM_28956797-2049-4607-b1d6-b68e685255eb,(empty),(empty),SWAP Program Not Found
+Testing only,SYM_95d4be15-062d-47c0-8193-58e1dcf75d15,(empty),(empty),Testing only
+Mobile Number Not Found,SYM_5119391b-5f73-46a8-8406-e1186b729bf8,(empty),(empty),Mobile Number Not Found
+Alternate Email Not Found,SYM_60bf7a06-bb1d-4edb-aad2-fb4450e0b243,(empty),(empty),Alternate Email Not Found
+Account Outstanding Balance Found,SYM_dfc6936d-00dc-49a6-b640-74df65e67c5e,(empty),(empty),Account Outstanding Balance Found
+Outage Information Found,SYM_df7951f7-0f5f-47af-b2ca-fbcd6eb73185,(empty),(empty),Outage Information Found
+Username Not Found,SYM_17a3784b-60fa-442c-87e9-f0f6cf8ab53c,(empty),(empty),Username Not Found
+Account Autopay Not Found,SYM_da5fa41c-a056-465d-af97-8a85ac663f05,(empty),(empty),Account Autopay Not Found
+The account does not have a PIN,SYM_6b6266ae-4f71-42c9-b6e9-672e6df45919,(empty),(empty),The account does not have a PIN
+Enrolled in AutoPay With Issue,SYM_34925a03-544e-4969-b074-6c458507814c,(empty),(empty),Enrolled in AutoPay With Issue
+No My Account Access Attempts,SYM_23387b72-91de-4e15-82e0-24ab68736960,(empty),(empty),No My Account Access Attempts
+Tony's Account,SYM_18c8dd5d-c847-4a20-b1d0-569fb615a3c1,(empty),(empty),Tony's Account
+Test,SYM_12502cfc-c72b-433a-b521-5c921eed673f,(empty),(empty),Test
+Test2123,SYM_e40c62fa-80ce-4bd3-9660-ed07405b017e,(empty),(empty),Test2123
+Context Event Exists,SYM_506be336-3187-4a75-af3e-7528b50d85ba,(empty),(empty),Context Event Exists
+Context ITG,SYM_c253b604-3d95-49b0-8e94-647455a6c484,(empty),(empty),Context ITG
+Context Document,SYM_542cd921-483f-4daf-8085-22d09d78bcd9,(empty),(empty),Context Document
+PHT - FAIL,SYM_0aa2cd2c-db32-486e-a05a-d32c4ab4f05c,(empty),(empty),PHT - FAIL
+PHT Score is Outside Acceptable Range and Override Status is NOT ALLOWED,SYM_a66ca2e1-6e50-40b7-8acf-3547f7fb4a51,(empty),(empty),PHT Score is Outside Acceptable Range and Override Status is NOT ALLOWED
+This is not my account,SYM_5b07c1fe-70ec-4c45-aed6-718c261fca24,(empty),(empty),This is not my account
+PHT Score is Outside Acceptable Range and Override Status is ALLOWED,SYM_1c7c2b1c-f900-4010-a7fa-d892cb4e082e,(empty),(empty),PHT Score is Outside Acceptable Range and Override Status is ALLOWED
+Upstream Signal to Noise Ratio Outside Acceptable Range,SYM_b1abac35-fcf0-4175-a29d-1eeee0a00aef,(empty),(empty),Upstream Signal to Noise Ratio Outside Acceptable Range
+Account Disconnect Reason- Non-Payment,SYM_bfee9dab-2ea7-44e5-a792-8c3cc07f8361,(empty),(empty),Account Disconnect Reason- Non-Payment
+Down RX Power Exceeds Acceptable Range,SYM_3e8494f2-1c21-47e9-90a8-50005cb93295,(empty),(empty),Down RX Power Exceeds Acceptable Range
+Outage Identified,SYM_5b1e566e-d7e9-4201-8511-78d0bb5cd347,(empty),(empty),Outage Identified
+Tony's Bootfile,SYM_0b069251-409d-4d93-9852-13cf46f2f1da,(empty),(empty),Tony's Bootfile
+Account Balance Less than Threshold,SYM_a0b4cd6d-3ac7-42a6-ac92-9707e285da65,(empty),(empty),Account Balance Less than Threshold
+UpStream TX Power Exceeds Threshold,SYM_0ce19bdf-9e68-4be4-b8a5-baab7bf57b0b,(empty),(empty),UpStream TX Power Exceeds Threshold
+Hot Tap,SYM_08fd4821-05cc-4001-94de-9620015ea3d0,(empty),(empty),Hot Tap
+PHT - PASS with OVERRIDES,SYM_966a0303-38b2-4785-86cd-9d808f7490cb,(empty),(empty),PHT - PASS with OVERRIDES
+PHT Score is Within Acceptable Range and Override Status is ALLOWED,SYM_45d32158-1fe2-43d9-9c3f-d471cc17354c,(empty),(empty),PHT Score is Within Acceptable Range and Override Status is ALLOWED
+Down RX Power Below Acceptable Range,SYM_0870260b-0316-4199-805b-f5e9e6885a3d,(empty),(empty),Down RX Power Below Acceptable Range
+First Name contains Anthony,SYM_edae0b88-14fd-4b4f-af64-68f245a74c5f,(empty),(empty),First Name contains Anthony
+New Device Count Exceeds Threshold,SYM_7ca441ab-0722-463f-a22e-d2134f9a69f8,(empty),(empty),New Device Count Exceeds Threshold
+Symptomdate,SYM_105b48f1-39d9-47ad-8f39-a4a4902673a1,(empty),datecreation,Symptomdate
+NBX_Services,SYM_f01f7205-13d1-4861-babc-db1dd0cd4352,(empty),(empty),NBX_Services
+Ui Controls Symptom,SYM_60745d55-c4fe-4b29-9493-5d6b86d20ea7,(empty),(empty),Ui Controls Symptom
+Account Number is not null,SYM_da12747a-dc5a-4e2f-85b4-62803dd11c5d,(empty),Used for Validate UI controls,Account Number is not null
+CDV Porting Issue,SYM_44475c62-a7e8-4422-8ff0-c25518e23db6,(empty),(empty),CDV Porting Issue
+Sensor Low Battery,SYM_e4f4e0b9-9c06-4a4e-bf21-0afe943200fb,(empty),(empty),Sensor Low Battery
+Battery Low,SYM_e9983959-3793-4a0e-9bf0-d1b6149bdef5,(empty),(empty),Battery Low
+Replace Battery,SYM_9f986e98-0342-42f8-878e-b1b768d8c960,(empty),(empty),Replace Battery
+Low Battery,SYM_1b534efa-1ec2-405b-97f6-cba7217d02f7,(empty),(empty),Low Battery
+Take Over Low Battery,SYM_ab9755ae-40f3-4dd2-91bb-6cc823a215ee,(empty),(empty),Take Over Low Battery
+Zigbee Sensor Low Battery,SYM_03ebfaba-fc8f-46ad-89e9-4a32a926921c,(empty),(empty),Zigbee Sensor Low Battery
+Sensor No Power,SYM_80aec388-e8cc-464b-99b6-caa8a10da812,(empty),(empty),Sensor No Power
+Take Over No Power,SYM_146788fc-3280-4b35-b425-d461142bd6b5,(empty),(empty),Take Over No Power
+Zigbee Sensor No Power,SYM_26f32764-858b-4284-8445-3dbe0ebf86a0,(empty),(empty),Zigbee Sensor No Power
+Zigbee Sensor Fail Battery,SYM_6ec84a04-0818-4911-8b25-42af4b699165,(empty),(empty),Zigbee Sensor Fail Battery
+Dashboard_Testing,SYM_3dab72f2-5620-471b-9d24-9e7a300f8ced,(empty),(empty),Dashboard_Testing
+Feature In Biller And Not In Switch,SYM_b5872f05-d7aa-4805-98cf-2475b5d1d490,(empty),(empty),Feature In Biller And Not In Switch
+Feature In Biller And Not In Switch with International Block,SYM_54a7dbbc-0d31-41a2-a4b1-0f8c217dc157,(empty),(empty),Feature In Biller And Not In Switch with International Block
+Feature In Switch And Not In Biller,SYM_fd78245e-3739-420e-a3a5-244b5e36cc01,(empty),(empty),Feature In Switch And Not In Biller
+Feature In Switch And Not In Biller with International Block,SYM_6af749e6-d2dd-429b-a7e1-d5206416791b,(empty),(empty),Feature In Switch And Not In Biller with International Block
+Activate Video Error,SYM_59383965-8070-45ba-9d9b-6643ff84307b,(empty),(empty),Activate Video Error
+Found Seasonal Bootfile,SYM_a58719f2-47ac-4590-8a3b-e1bc15329a41,(empty),(empty),Found Seasonal Bootfile
+OZ - PHT - ICFR > 7,SYM_6869a754-efb1-4d8d-ad27-845b8eb7b4be,1,(empty),OZ - PHT - ICFR > 7
+OZ - PHT - DS SNR < 32,SYM_c350f7be-7de3-479e-b084-b6228419811e,1,(empty),OZ - PHT - DS SNR < 32
+Context Both,SYM_f4716f79-7d6a-442d-9a9d-77c3e91739c4,(empty),(empty),Context Both
+Equipment - Swap Eligible,SYM_9377796b-c17c-46cf-b72d-719ad2d17bc4,(empty),(empty),Equipment - Swap Eligible
+Account - Swap Eligbile,SYM_2a5459ae-2c35-4919-b755-130383235361,(empty),(empty),Account - Swap Eligbile
+WatchTower - Outage,SYM_5a007411-c696-434d-b906-2209e45aace6,(empty),"The general rule is that 4 or more devices that appear to share a common problem and the modems are offline. If the address is an MDU then 45% or more of the MDU has to be offline for it to count towards the outage. Also, 15% or more of the subs need to be offline if the sub count is greater than 40.",WatchTower - Outage
+WatchTower - Power Outage,SYM_ac245d3b-04ea-4746-8c16-a91befcf8cf4,(empty),4 or more devices that appear to be part of a commercial power outage. Commercial power outages are detected by looking for devices on battery backup. Devices with battery backup will remain online until the battery is depleted. Devices without batteries will fall offline immediately if there is power interruption.,WatchTower - Power Outage
+WatchTower - Fiber Cut,SYM_65015f92-de2e-4fae-be12-5902ea427255,(empty),This is a manually set event. There is no automated mechanism to create fiber cut events. I user must manually change the event type in this case.,WatchTower - Fiber Cut
+WatchTower - Service Call Node Alert,SYM_655f0370-4f50-445b-94a2-b01102db3f41,(empty),"A cluster of trouble calls was found, or a percentage of the customers on a node have trouble calls. The threshold for number of calls required to create this event type is configurable in the Auto-Ticketing Scheme ? by default the number of trouble calls must be equal to or greater than 7% of the number of devices on the node (as of 51215)",WatchTower - Service Call Node Alert
+WatchTower - Service Call Cluster Alert,SYM_54218fd9-26da-4887-853f-389c7539fe99,(empty),"A cluster of trouble calls was found, or a percentage of the customers on a node have trouble calls. The threshold for number of calls required to create this event type is configurable in the Auto-Ticketing Scheme ? by default the number of trouble calls must be equal to or greater than 7% of the number of devices on the node (as of 51215)",WatchTower - Service Call Cluster Alert
+WatchTower - Priority Plant Fault,SYM_829a970a-92c4-40dd-8da5-b5083dc561c8,(empty),This event type is a plant fault type with at least 3 trouble calls within a 150m radius of the event.,WatchTower - Priority Plant Fault
+WatchTower - LPI,SYM_e77da703-f565-4de0-978b-b7440720801c,(empty),A Priority Plant Fault Job will be created if the node analysis results in a Plant Fault condition and one of the affected Customers has an open Customer Ticket.,WatchTower - LPI
+WatchTower - Moderate Plant Fault,SYM_3360dbf1-d9e9-46b4-be3a-12f0bc7286ce,(empty),"4 or more devices that share a common problem with the cable modem eMTA. That problem can be out of range upstream transmit power, upstream SNR MER, downstream SNR MER, and downstream receive power. Out of range is configurable for all metrics for any network hierarchy element.",WatchTower - Moderate Plant Fault
+WatchTower - Severe Plant Fault,SYM_0b1b2f1d-9105-41df-b654-c097d4eee757,(empty),"A Severe Plant Fault will be triggered when 80% or more of the devices in the Plant Fault violate the Severe threshold values for the RF levels in question. (For example, the Upstream Return (US Rx) Severe threshold is -4dBmV and the Moderate threshold is -2dBmV.)",WatchTower - Severe Plant Fault
+WatchTower - US FEC,SYM_60b78fd6-3449-4c1f-8847-64ae6c69881c,(empty),4 or more devices that share a common problem related to high FEC upstream uncorrectable rates. Uncorrectable FEC rate is (FEC uncorrectable codewords) (FEC Unerrored Codewords + FEC Corrected Codewords + FEC Uncorrectable Codewords). What is considered a high upstream range of FEC rates is configurable for all metrics for any network hierarchy element.,WatchTower - US FEC
+WatchTower - DS FEC,SYM_17380913-70e2-41d0-9f58-f7e288a1f535,(empty),4 or more devices that share a common problem related to high downstream FEC uncorrectable rates. Uncorrectable FEC rate is (FEC uncorrectable codewords) (FEC Unerrored Codewords + FEC Corrected Codewords + FEC Uncorrectable Codewords). What is considered a high range of downstream FEC rates is configurable for all metrics for any network hierarchy element.,WatchTower - DS FEC
+WatchTower - Wifi Outage (CM),SYM_257cc2c5-7437-4ef2-b480-f6e273bcd9ab,(empty),Soak time 36 hours.,WatchTower - Wifi Outage (CM)
+WatchTower - Wifi Outage (AP),SYM_326e615f-320f-40a7-935a-c35657d8f067,(empty),Soak time 36 hours.,WatchTower - Wifi Outage (AP)
+WatchTower - Flux OSP,SYM_bb4954a1-870f-423b-a6a1-2649e65c3a52,(empty),Events based on analyzing the ripples for groups of customers. These thresholds are configurable at any level in the hierarchy so contact your NWT admin for specifics. Here is the initial default settings.,WatchTower - Flux OSP
+WatchTower - Experimental MDU Severe Plant Fault,SYM_a28836c0-0079-4a9a-9eb2-f04fff0062ca,(empty),(empty),WatchTower - Experimental MDU Severe Plant Fault
+WatchTower - ACP (RTH),SYM_2b04a547-71e6-4b5d-ac2e-b545c1778338,(empty),"This event is based on the SpectraCM platform detecting an Adjacent Channel Power variance that exceeds predefined thresholds. As of 1192015, this event type will be visible to all users. However, there is no planned impact to PPI or PI scores from this event type. Lastly, Auto-Jobbing (or assignment of fix to these event otherwise) is intended to utilize your Division or Region's existing Refer to Headend process.",WatchTower - ACP (RTH)
+WatchTower - Wave,SYM_09301d1b-ebdf-4d22-b433-a86925c8098f,(empty),(empty),WatchTower - Wave
+WatchTower - Suckout Moderate,SYM_ea070a5e-7d82-48c2-9a7a-30e897e53e1a,(empty),(empty),WatchTower - Suckout Moderate
+WatchTower - Suckout Severe,SYM_581acfbd-ef7f-491b-a42e-103258437981,(empty),(empty),WatchTower - Suckout Severe
+All IP Capable Devices are Offline,SYM_7dcae1a0-6a87-45a1-a009-435d468006f2,(empty),(empty),All IP Capable Devices are Offline
+All IP Capable Devices are Not Responding,SYM_4ddb4347-0ca5-4d61-b4c8-ca3b11eb86c3,(empty),(empty),All IP Capable Devices are Not Responding
+My MAC Address,SYM_a82c496b-891f-485d-857b-9ff8134158f9,(empty),(empty),My MAC Address
+EcoBill Enabled,SYM_d7894566-ae9a-4717-a8ef-ff785fdb183f,(empty),(empty),EcoBill Enabled
+Account Billing Type is PAPER,SYM_3b57f545-6a41-4f40-9b98-e188096bdaa6,(empty),(empty),Account Billing Type is PAPER
+Test - Last Name,SYM_8a889d84-6c44-43ff-9e6a-b0587d1ade1e,(empty),My last name,Test - Last Name
+Account is not delinquent,SYM_a82aa54e-89df-4cb2-b8a1-c8ffb1ebc1e2,(empty),(empty),Account is not delinquent
+Ported CDV Found,SYM_c6ddf342-04a4-49d0-9e2e-386ac7ae8217,(empty),(empty),Ported CDV Found
+Dormant Property,SYM_2e44e7f9-9335-419e-bc61-fffc67eda374,(empty),(empty),Dormant Property
+QATest1,SYM_c93532dd-8732-4670-b251-04002738fb96,1,(empty),QATest1
+QATest2,SYM_7b7aeb0e-81ce-454c-b3d1-fd52e2040185,0,(empty),QATest2
+CreateSymptomTest,SYM_8a6a3175-faf6-4df3-b764-af3f96124b82,1,(empty),CreateSymptomTest
+THe customer is 10 days late,SYM_4a589513-0eb6-4908-908e-3cfc60831b6e,1,(empty),THe customer is 10 days late
+High Modem Health Score,SYM_fdff4b69-3bac-4422-95d6-4592bc9d6677,1,(empty),High Modem Health Score
+CDV Only Bootfile,SYM_63596579-4c79-463d-8dc9-da0b5a2f1d9f,1,(empty),CDV Only Bootfile
+Feature In Biller And Not In Switch - has excluded products,SYM_e8016fb5-3a0d-466a-b77c-76b349472e81,1,(empty),Feature In Biller And Not In Switch - has excluded products
+Feature In Biller And Not In Switch with International Block - has excluded products,SYM_e28cc187-8622-4c32-98fa-d85700c39792,1,(empty),Feature In Biller And Not In Switch with International Block - has excluded products
+Symptom_test,SYM_af75c254-4705-463c-9db8-e09c6a1db61f,1,(empty),Symptom_test
+EBI Score Out of Range,SYM_d028f0c3-f6b0-4e42-afa1-2c839bc81eb7,1,(empty),EBI Score Out of Range
+OZ - PHT - DS RX < -10,SYM_44c23dd8-f614-4b0f-94d5-d5e6272431d9,1,(empty),OZ - PHT - DS RX < -10
+OZ - PHT - DS RX > 12,SYM_c3214cee-89ea-4e5e-97da-827b0e2928cb,1,(empty),OZ - PHT - DS RX > 12
+Current SPID is not Comcast,SYM_27350897-1e31-4244-82bb-883432ff0513,1,(empty),Current SPID is not Comcast
+ticketObjectTest,SYM_69b7a502-eda5-4c6d-89c5-f1b972b3a72b,1,(empty),ticketObjectTest
+No My Account Access Attempts - null,SYM_17f4b597-d30e-4e12-a922-d73a45043999,1,(empty),No My Account Access Attempts - null
+APT - Service with no Equipment,SYM_4f8eabb5-0a10-4dad-8c37-a75ff1b7a29d,0,(empty),APT - Service with no Equipment
+OZ - PHT - PHY Rate < 160,SYM_88c277ab-291d-4b59-ba49-d0d8ce64c25f,1,(empty),OZ - PHT - PHY Rate < 160
+OZ - PHT - PHY Rate < 180,SYM_ca8762de-f7a1-48f8-8b92-53da9031853b,1,(empty),OZ - PHT - PHY Rate < 180
+Daves Symptom,SYM_94518181-e18b-4908-a4df-35d9ae62874c,1,(empty),Daves Symptom
+Ticket,SYM_f9f9c913-553a-402f-859c-f1f90a9c3c2d,1,(empty),Ticket
+TestAlternatePhone,SYM_6fd4b7a1-acfd-4e26-87a7-c677dd094854,0,testing purpose,TestAlternatePhone
+Warm Xfer,SYM_0618869b-d90e-478d-b1de-751333479747,1,(empty),Warm Xfer
+Account Promise To Pay,SYM_07835ba9-311f-4ee0-aa9e-27632281be68,1,(empty),Account Promise To Pay
+Account number is 778899,SYM_56bab0f5-dbfd-4073-85c3-fae3ea1156d5,1,(empty),Account number is 778899
+Has CDV Service by Market,SYM_cbf6775b-1f09-4ac1-971b-9ff86bd54c36,1,(empty),Has CDV Service by Market
+NCOE Tier 2 - Internet,SYM_bda92f38-31d4-478c-803b-a1c98128006d,1,(empty),NCOE Tier 2 - Internet
+NCOE Tier 2 - Video,SYM_ac135efe-907e-4109-928b-103e3a41da31,1,(empty),NCOE Tier 2 - Video
+NCOE Tier 2 - X1,SYM_4c3680e9-b1d0-4c3f-817f-3d157750499d,1,(empty),NCOE Tier 2 - X1
+NCOE Tier 2 - Voice,SYM_7863d2f2-9357-431a-bdf8-641380683aae,1,(empty),NCOE Tier 2 - Voice
+NCOE Tier 3 ACES Internet,SYM_532ca04d-6ca7-454e-9d4d-e423289646b0,1,(empty),NCOE Tier 3 ACES Internet
+Tier 3 ACES Voice,SYM_42c1caa7-91ee-43f7-842e-c6f43069ceb3,1,(empty),Tier 3 ACES Voice
+Tier 3 ACES X1,SYM_bea77d09-e3d5-41be-8547-ceebcf17426f,1,(empty),Tier 3 ACES X1
+Bootfile Mismatch - No Walled,SYM_8317d5b6-6814-4af2-9e6c-bb5279772dda,1,(empty),Bootfile Mismatch - No Walled
+Bootfile Mismatch - No CDV,SYM_4c10bde7-409d-4148-bffb-81f7ab5dd263,1,(empty),Bootfile Mismatch - No CDV
+Testing-defect,SYM_8aa828e9-a1e8-46a0-a5ad-15d44053c74b,1,(empty),Testing-defect
+Symptom1 UI360,SYM_cce41860-8962-477a-911e-f5bbd5acdbc6,1,Test Symptom for UI 360,Symptom1 UI360
+Tier 3 ACES X1 - Override,SYM_08454aff-5b12-429c-aaaa-aa9eed503672,1,(empty),Tier 3 ACES X1 - Override
+NPS Has CDV Service,SYM_850f3b55-2220-497b-a31c-e5d0f1ba6705,1,(empty),NPS Has CDV Service
+ticket assigned,SYM_1ec45e83-f1af-41e9-9356-f6a68f07c6e4,1,(empty),ticket assigned
+Region_Beltway,SYM_ec3b326e-9a48-46d6-b185-769b0f17e502,1,(empty),Region_Beltway
+VAssist_EcoBill_Not_Enabled,SYM_3cc358fa-5af1-44fa-a90d-0ce52f63cc56,1,Account is Paper,VAssist_EcoBill_Not_Enabled
+Planned Outage,SYM_8c73ccd1-e06e-4cfd-8788-35651125ce36,1,(empty),Planned Outage
+Door Sensor Low Battery,SYM_47ae8b02-a856-4d5a-8f5b-faa9fbf20c6e,1,(empty),Door Sensor Low Battery
+Window Sensor Low Battery,SYM_503292f2-7a56-4a39-ad37-9f671c49da21,1,(empty),Window Sensor Low Battery
+Motion Sensor Low Battery,SYM_dc8296d7-98c1-4f60-860d-a2ad005cc848,1,(empty),Motion Sensor Low Battery
+OZ - PHT - US Transmit < 25,SYM_5c17216d-34e8-435a-b3bd-8aaefb310524,1,(empty),OZ - PHT - US Transmit < 25
+OZ - PHT - US Transmit > 57,SYM_5e22ef6c-d910-4e28-a2b0-ceb05d3d0ebe,1,(empty),OZ - PHT - US Transmit > 57
+OZ - PHT - US RX < -3.5,SYM_aa9e7f00-439f-4bfe-a3e5-cf79f73d9652,1,(empty),OZ - PHT - US RX < -3.5
+OZ - PHT - CM US SNR < 27,SYM_eb337f00-606e-4a19-93b0-0f8a8bca9f77,1,(empty),OZ - PHT - CM US SNR < 27
+Testing_Defect,SYM_99899d9a-265d-4a57-86e8-375e44ec6f08,(empty),(empty),Testing_Defect
+Tap_symptom,SYM_7c7a9dec-b7a9-4273-97cd-6d4f588968ef,(empty),(empty),Tap_symptom
+Process Vertically Test,SYM_5bb52c23-1bcc-4020-8b3d-4226aae61f4c,1,(empty),Process Vertically Test
+Outage attribute or value missing,SYM_6624b821-7287-479e-b6ff-5412130d8a44,1,(empty),Outage attribute or value missing
+Return Flag,SYM_e0ce9067-bede-4f0b-8525-7422bb59ee8b,1,(empty),Return Flag
+Bootfile Mismatch - No vacation,SYM_0e652fe0-2f36-40e6-b2f8-67128992f4bf,1,(empty),Bootfile Mismatch - No vacation
+Training - Sensor Low Batt,SYM_5e09360e-209f-416d-af13-6f263bc1d2d6,1,Training - Sensor Low Battery,Training - Sensor Low Batt
+Service with no Equipment,SYM_14be7037-30ee-456e-b934-2b33e351af1f,1,ABT,Service with no Equipment
+ABT - Service with no Equipment,SYM_73ec95c2-c8c2-4920-81b1-19ad56defcfd,1,(empty),ABT - Service with no Equipment
+First and Name not Found,SYM_e781fa60-4e4d-4983-be51-f34df66e7700,1,(empty),First and Name not Found
+NCOE Tier 2 - Internet - Override,SYM_b5f23db3-ed7b-4af8-b997-7a913a377b5d,1,(empty),NCOE Tier 2 - Internet - Override
+NCOE Tier 2 - Video - Override,SYM_4a8b69a4-1f54-488b-877b-df2859050073,1,(empty),NCOE Tier 2 - Video - Override
+NCOE Tier 2 - X1 - Override,SYM_ebe0a6af-b123-40a3-8a99-dd315c9d4f23,1,(empty),NCOE Tier 2 - X1 - Override
+NCOE Tier 2 - Voice - Override,SYM_ffed56f6-a9bf-45a8-897b-9f7c6cef18e3,1,(empty),NCOE Tier 2 - Voice - Override
+NCOE Tier 3 ACES Internet - Override,SYM_4992dd47-271f-46f6-9998-c86c61e1106c,1,(empty),NCOE Tier 3 ACES Internet - Override
+Tier 3 ACES Voice - Override,SYM_df867b82-853c-4393-9924-cf00e1df9847,1,(empty),Tier 3 ACES Voice - Override
+Seasonal Suspend State Found - Northeast,SYM_8d05fe11-7681-4b6c-9c6f-2b8df2e879d9,1,(empty),Seasonal Suspend State Found - Northeast
+newaccountrecommendation,SYM_5b39fb2d-ba8c-46bc-b036-102d9b7ddef0,1,qavalidation,newaccountrecommendation
+newversion,SYM_233231d5-43a7-4ba1-9cca-6a48ac28e1c7,1,version,newversion
+Seasonal Suspend State Found - Central,SYM_1bcd255c-e60e-46f5-b6f5-6f1a98ca47cf,1,(empty),Seasonal Suspend State Found - Central
+Seasonal Suspend State Found - West,SYM_2fd741a1-ec8e-4633-9e52-93758f0b5c87,1,(empty),Seasonal Suspend State Found - West
+ratecodesymptomnew,SYM_767ee7c7-cb80-44ef-bb92-ac4c019ba535,1,descript,ratecodesymptomnew
