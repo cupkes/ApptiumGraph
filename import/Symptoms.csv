@@ -70,6 +70,8 @@ Feature In Switch And Not In Biller,SYM_fd78245e-3739-420e-a3a5-244b5e36cc01,(em
 Feature In Switch And Not In Biller with International Block,SYM_6af749e6-d2dd-429b-a7e1-d5206416791b,(empty),(empty),Feature In Switch And Not In Biller with International Block
 Activate Video Error,SYM_59383965-8070-45ba-9d9b-6643ff84307b,(empty),(empty),Activate Video Error
 Found Seasonal Bootfile,SYM_a58719f2-47ac-4590-8a3b-e1bc15329a41,(empty),(empty),Found Seasonal Bootfile
+Testing_Defect,SYM_99899d9a-265d-4a57-86e8-375e44ec6f08,(empty),(empty),Testing_Defect
+Tap_symptom,SYM_7c7a9dec-b7a9-4273-97cd-6d4f588968ef,(empty),(empty),Tap_symptom
 OZ - PHT - ICFR > 7,SYM_6869a754-efb1-4d8d-ad27-845b8eb7b4be,1,(empty),OZ - PHT - ICFR > 7
 OZ - PHT - DS SNR < 32,SYM_c350f7be-7de3-479e-b084-b6228419811e,1,(empty),OZ - PHT - DS SNR < 32
 Context Both,SYM_f4716f79-7d6a-442d-9a9d-77c3e91739c4,(empty),(empty),Context Both
@@ -103,74 +105,35 @@ Test - Last Name,SYM_8a889d84-6c44-43ff-9e6a-b0587d1ade1e,(empty),My last name,T
 Account is not delinquent,SYM_a82aa54e-89df-4cb2-b8a1-c8ffb1ebc1e2,(empty),(empty),Account is not delinquent
 Ported CDV Found,SYM_c6ddf342-04a4-49d0-9e2e-386ac7ae8217,(empty),(empty),Ported CDV Found
 Dormant Property,SYM_2e44e7f9-9335-419e-bc61-fffc67eda374,(empty),(empty),Dormant Property
+Process Vertically Test,SYM_5bb52c23-1bcc-4020-8b3d-4226aae61f4c,1,(empty),Process Vertically Test
+Outage attribute or value missing,SYM_6624b821-7287-479e-b6ff-5412130d8a44,1,(empty),Outage attribute or value missing
+Return Flag,SYM_e0ce9067-bede-4f0b-8525-7422bb59ee8b,1,(empty),Return Flag
+Training - Sensor Low Batt,SYM_5e09360e-209f-416d-af13-6f263bc1d2d6,1,Training - Sensor Low Battery,Training - Sensor Low Batt
+Bootfile Mismatch - No vacation,SYM_0e652fe0-2f36-40e6-b2f8-67128992f4bf,1,(empty),Bootfile Mismatch - No vacation
+Service with no Equipment,SYM_14be7037-30ee-456e-b934-2b33e351af1f,1,ABT,Service with no Equipment
+ABT - Service with no Equipment,SYM_73ec95c2-c8c2-4920-81b1-19ad56defcfd,1,(empty),ABT - Service with no Equipment
 QATest1,SYM_c93532dd-8732-4670-b251-04002738fb96,1,(empty),QATest1
 QATest2,SYM_7b7aeb0e-81ce-454c-b3d1-fd52e2040185,0,(empty),QATest2
 CreateSymptomTest,SYM_8a6a3175-faf6-4df3-b764-af3f96124b82,1,(empty),CreateSymptomTest
 THe customer is 10 days late,SYM_4a589513-0eb6-4908-908e-3cfc60831b6e,1,(empty),THe customer is 10 days late
 High Modem Health Score,SYM_fdff4b69-3bac-4422-95d6-4592bc9d6677,1,(empty),High Modem Health Score
+Current SPID is not Comcast,SYM_27350897-1e31-4244-82bb-883432ff0513,1,(empty),Current SPID is not Comcast
+Bootfile Mismatch - No Walled,SYM_8317d5b6-6814-4af2-9e6c-bb5279772dda,1,(empty),Bootfile Mismatch - No Walled
+Bootfile Mismatch - No CDV,SYM_4c10bde7-409d-4148-bffb-81f7ab5dd263,1,(empty),Bootfile Mismatch - No CDV
 CDV Only Bootfile,SYM_63596579-4c79-463d-8dc9-da0b5a2f1d9f,1,(empty),CDV Only Bootfile
 Feature In Biller And Not In Switch - has excluded products,SYM_e8016fb5-3a0d-466a-b77c-76b349472e81,1,(empty),Feature In Biller And Not In Switch - has excluded products
 Feature In Biller And Not In Switch with International Block - has excluded products,SYM_e28cc187-8622-4c32-98fa-d85700c39792,1,(empty),Feature In Biller And Not In Switch with International Block - has excluded products
-Symptom_test,SYM_af75c254-4705-463c-9db8-e09c6a1db61f,1,(empty),Symptom_test
-EBI Score Out of Range,SYM_d028f0c3-f6b0-4e42-afa1-2c839bc81eb7,1,(empty),EBI Score Out of Range
-OZ - PHT - DS RX < -10,SYM_44c23dd8-f614-4b0f-94d5-d5e6272431d9,1,(empty),OZ - PHT - DS RX < -10
-OZ - PHT - DS RX > 12,SYM_c3214cee-89ea-4e5e-97da-827b0e2928cb,1,(empty),OZ - PHT - DS RX > 12
-Current SPID is not Comcast,SYM_27350897-1e31-4244-82bb-883432ff0513,1,(empty),Current SPID is not Comcast
-ticketObjectTest,SYM_69b7a502-eda5-4c6d-89c5-f1b972b3a72b,1,(empty),ticketObjectTest
-No My Account Access Attempts - null,SYM_17f4b597-d30e-4e12-a922-d73a45043999,1,(empty),No My Account Access Attempts - null
-APT - Service with no Equipment,SYM_4f8eabb5-0a10-4dad-8c37-a75ff1b7a29d,0,(empty),APT - Service with no Equipment
-OZ - PHT - PHY Rate < 160,SYM_88c277ab-291d-4b59-ba49-d0d8ce64c25f,1,(empty),OZ - PHT - PHY Rate < 160
-OZ - PHT - PHY Rate < 180,SYM_ca8762de-f7a1-48f8-8b92-53da9031853b,1,(empty),OZ - PHT - PHY Rate < 180
-Daves Symptom,SYM_94518181-e18b-4908-a4df-35d9ae62874c,1,(empty),Daves Symptom
-Ticket,SYM_f9f9c913-553a-402f-859c-f1f90a9c3c2d,1,(empty),Ticket
-TestAlternatePhone,SYM_6fd4b7a1-acfd-4e26-87a7-c677dd094854,0,testing purpose,TestAlternatePhone
-Warm Xfer,SYM_0618869b-d90e-478d-b1de-751333479747,1,(empty),Warm Xfer
-Account Promise To Pay,SYM_07835ba9-311f-4ee0-aa9e-27632281be68,1,(empty),Account Promise To Pay
-Account number is 778899,SYM_56bab0f5-dbfd-4073-85c3-fae3ea1156d5,1,(empty),Account number is 778899
-Has CDV Service by Market,SYM_cbf6775b-1f09-4ac1-971b-9ff86bd54c36,1,(empty),Has CDV Service by Market
-NCOE Tier 2 - Internet,SYM_bda92f38-31d4-478c-803b-a1c98128006d,1,(empty),NCOE Tier 2 - Internet
-NCOE Tier 2 - Video,SYM_ac135efe-907e-4109-928b-103e3a41da31,1,(empty),NCOE Tier 2 - Video
-NCOE Tier 2 - X1,SYM_4c3680e9-b1d0-4c3f-817f-3d157750499d,1,(empty),NCOE Tier 2 - X1
-NCOE Tier 2 - Voice,SYM_7863d2f2-9357-431a-bdf8-641380683aae,1,(empty),NCOE Tier 2 - Voice
-NCOE Tier 3 ACES Internet,SYM_532ca04d-6ca7-454e-9d4d-e423289646b0,1,(empty),NCOE Tier 3 ACES Internet
-Tier 3 ACES Voice,SYM_42c1caa7-91ee-43f7-842e-c6f43069ceb3,1,(empty),Tier 3 ACES Voice
-Tier 3 ACES X1,SYM_bea77d09-e3d5-41be-8547-ceebcf17426f,1,(empty),Tier 3 ACES X1
-Bootfile Mismatch - No Walled,SYM_8317d5b6-6814-4af2-9e6c-bb5279772dda,1,(empty),Bootfile Mismatch - No Walled
-Bootfile Mismatch - No CDV,SYM_4c10bde7-409d-4148-bffb-81f7ab5dd263,1,(empty),Bootfile Mismatch - No CDV
-Testing-defect,SYM_8aa828e9-a1e8-46a0-a5ad-15d44053c74b,1,(empty),Testing-defect
-Symptom1 UI360,SYM_cce41860-8962-477a-911e-f5bbd5acdbc6,1,Test Symptom for UI 360,Symptom1 UI360
-Tier 3 ACES X1 - Override,SYM_08454aff-5b12-429c-aaaa-aa9eed503672,1,(empty),Tier 3 ACES X1 - Override
-NPS Has CDV Service,SYM_850f3b55-2220-497b-a31c-e5d0f1ba6705,1,(empty),NPS Has CDV Service
-ticket assigned,SYM_1ec45e83-f1af-41e9-9356-f6a68f07c6e4,1,(empty),ticket assigned
-Region_Beltway,SYM_ec3b326e-9a48-46d6-b185-769b0f17e502,1,(empty),Region_Beltway
-VAssist_EcoBill_Not_Enabled,SYM_3cc358fa-5af1-44fa-a90d-0ce52f63cc56,1,Account is Paper,VAssist_EcoBill_Not_Enabled
-Planned Outage,SYM_8c73ccd1-e06e-4cfd-8788-35651125ce36,1,(empty),Planned Outage
 Door Sensor Low Battery,SYM_47ae8b02-a856-4d5a-8f5b-faa9fbf20c6e,1,(empty),Door Sensor Low Battery
 Window Sensor Low Battery,SYM_503292f2-7a56-4a39-ad37-9f671c49da21,1,(empty),Window Sensor Low Battery
 Motion Sensor Low Battery,SYM_dc8296d7-98c1-4f60-860d-a2ad005cc848,1,(empty),Motion Sensor Low Battery
+Testing-defect,SYM_8aa828e9-a1e8-46a0-a5ad-15d44053c74b,1,(empty),Testing-defect
+Symptom1 UI360,SYM_cce41860-8962-477a-911e-f5bbd5acdbc6,1,Test Symptom for UI 360,Symptom1 UI360
+Symptom_test,SYM_af75c254-4705-463c-9db8-e09c6a1db61f,1,(empty),Symptom_test
 OZ - PHT - US Transmit < 25,SYM_5c17216d-34e8-435a-b3bd-8aaefb310524,1,(empty),OZ - PHT - US Transmit < 25
 OZ - PHT - US Transmit > 57,SYM_5e22ef6c-d910-4e28-a2b0-ceb05d3d0ebe,1,(empty),OZ - PHT - US Transmit > 57
 OZ - PHT - US RX < -3.5,SYM_aa9e7f00-439f-4bfe-a3e5-cf79f73d9652,1,(empty),OZ - PHT - US RX < -3.5
 OZ - PHT - CM US SNR < 27,SYM_eb337f00-606e-4a19-93b0-0f8a8bca9f77,1,(empty),OZ - PHT - CM US SNR < 27
-Testing_Defect,SYM_99899d9a-265d-4a57-86e8-375e44ec6f08,(empty),(empty),Testing_Defect
-Tap_symptom,SYM_7c7a9dec-b7a9-4273-97cd-6d4f588968ef,(empty),(empty),Tap_symptom
-Process Vertically Test,SYM_5bb52c23-1bcc-4020-8b3d-4226aae61f4c,1,(empty),Process Vertically Test
-Outage attribute or value missing,SYM_6624b821-7287-479e-b6ff-5412130d8a44,1,(empty),Outage attribute or value missing
-Return Flag,SYM_e0ce9067-bede-4f0b-8525-7422bb59ee8b,1,(empty),Return Flag
-Bootfile Mismatch - No vacation,SYM_0e652fe0-2f36-40e6-b2f8-67128992f4bf,1,(empty),Bootfile Mismatch - No vacation
-Training - Sensor Low Batt,SYM_5e09360e-209f-416d-af13-6f263bc1d2d6,1,Training - Sensor Low Battery,Training - Sensor Low Batt
-Service with no Equipment,SYM_14be7037-30ee-456e-b934-2b33e351af1f,1,ABT,Service with no Equipment
-ABT - Service with no Equipment,SYM_73ec95c2-c8c2-4920-81b1-19ad56defcfd,1,(empty),ABT - Service with no Equipment
+EBI Score Out of Range,SYM_d028f0c3-f6b0-4e42-afa1-2c839bc81eb7,1,(empty),EBI Score Out of Range
+OZ - PHT - DS RX < -10,SYM_44c23dd8-f614-4b0f-94d5-d5e6272431d9,1,(empty),OZ - PHT - DS RX < -10
+OZ - PHT - DS RX > 12,SYM_c3214cee-89ea-4e5e-97da-827b0e2928cb,1,(empty),OZ - PHT - DS RX > 12
 First and Name not Found,SYM_e781fa60-4e4d-4983-be51-f34df66e7700,1,(empty),First and Name not Found
-NCOE Tier 2 - Internet - Override,SYM_b5f23db3-ed7b-4af8-b997-7a913a377b5d,1,(empty),NCOE Tier 2 - Internet - Override
-NCOE Tier 2 - Video - Override,SYM_4a8b69a4-1f54-488b-877b-df2859050073,1,(empty),NCOE Tier 2 - Video - Override
-NCOE Tier 2 - X1 - Override,SYM_ebe0a6af-b123-40a3-8a99-dd315c9d4f23,1,(empty),NCOE Tier 2 - X1 - Override
-NCOE Tier 2 - Voice - Override,SYM_ffed56f6-a9bf-45a8-897b-9f7c6cef18e3,1,(empty),NCOE Tier 2 - Voice - Override
-NCOE Tier 3 ACES Internet - Override,SYM_4992dd47-271f-46f6-9998-c86c61e1106c,1,(empty),NCOE Tier 3 ACES Internet - Override
-Tier 3 ACES Voice - Override,SYM_df867b82-853c-4393-9924-cf00e1df9847,1,(empty),Tier 3 ACES Voice - Override
-Seasonal Suspend State Found - Northeast,SYM_8d05fe11-7681-4b6c-9c6f-2b8df2e879d9,1,(empty),Seasonal Suspend State Found - Northeast
-newaccountrecommendation,SYM_5b39fb2d-ba8c-46bc-b036-102d9b7ddef0,1,qavalidation,newaccountrecommendation
-newversion,SYM_233231d5-43a7-4ba1-9cca-6a48ac28e1c7,1,version,newversion
-Seasonal Suspend State Found - Central,SYM_1bcd255c-e60e-46f5-b6f5-6f1a98ca47cf,1,(empty),Seasonal Suspend State Found - Central
-Seasonal Suspend State Found - West,SYM_2fd741a1-ec8e-4633-9e52-93758f0b5c87,1,(empty),Seasonal Suspend State Found - West
-ratecodesymptomnew,SYM_767ee7c7-cb80-44ef-bb92-ac4c019ba535,1,descript,ratecodesymptomnew

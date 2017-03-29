@@ -1,0 +1,8 @@
+//query for loading relations
+LOAD CSV WITH HEADERS
+FROM "FILE:///relations_Diagnosis_to_Recommendations.csv"
+AS row
+MATCH (r:Recommendation {id:row.recommendationsId})
+MATCH (d:Diagnosis {id:row.diagnosisId})
+MERGE (d)-[:LEADS_TO]->(r)
+;

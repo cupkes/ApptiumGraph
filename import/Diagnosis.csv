@@ -1,53 +1,52 @@
 description,active,overrideAllowed,name,id
+(empty),1,FALSE,Account in Seasonal,DIA_4960f12f-430e-46ca-84af-43a3d2125288
+(empty),1,FALSE,This account does not have a pin configured,DIA_aa186ac6-a8f5-46fa-b1b3-e826762a7815
+(empty),1,FALSE,Validate UI controls,DIA_8fa7a7e0-3fab-43ed-a4f1-2c090a8ef8ec
+(empty),1,FALSE,Device has Walled Garden bootfile,DIA_c6da49a5-da8d-4cad-9a92-3cf68d6d811e
+(empty),1,FALSE,The customer is not enrolled in Auto Pay,DIA_2b00d67f-ba77-4449-a45f-528b28b238fa
 (empty),1,FALSE,Non Pay Hard Disconnect,DIA_eb04f2bc-5678-4526-ba36-05f858e09b87
+(empty),1,FALSE,No alternate email found for account,DIA_4ae17405-c666-46ec-89b4-0480d84d251e
+(empty),1,FALSE,No alternate contact TN found for account,DIA_0856cf02-cd58-4c1e-a39f-e08081cb4343
 (empty),1,FALSE,Upgrade_Services1,DIA_2ff13860-6ddf-4558-bdfd-2efb451914b8
+(empty),1,FALSE,NOT_SIK_ELIGIBLE,DIA_c93b8085-9b98-419b-97df-dc2626d55221
+(empty),1,FALSE,Device has Seasonal bootfile,DIA_3b9db4b9-5173-4a72-8de4-402075c77e99
+null,1,FALSE,Customer in Soft Disconnect,DIA_83985540-9cfd-4bbb-a391-f5ff9f839f29
+(empty),1,FALSE,TICKET TEST,DIA_41f056e4-9656-4a30-9e5c-42e13b73a60d
+(empty),1,FALSE,Activate X1 Video Error,DIA_bc0fb71c-8974-4c58-b295-0fc43683de2b
 (empty),1,FALSE,CDV number not Ported,DIA_c01bd1d0-6044-4899-84ae-d9cb264591d9
+(empty),1,FALSE,User Name has not been created,DIA_3388f145-09b5-4ade-8032-34b65b78e03b
+(empty),1,FALSE,Testing,DIA_4728bc5e-1d55-4e77-8beb-f331e69e0405
+(empty),1,FALSE,ECO Bill not Enabled,DIA_0acd4979-bc76-4f25-9d08-5315fc6bcceb
+(empty),1,FALSE,Outages exist that may be associated to this location,DIA_d18fe7d1-c2ca-479f-8567-18e622f629e5
+(empty),1,FALSE,new test,DIA_d17314bd-23da-4a28-adfc-35a86fbdf510
+(empty),1,FALSE,OZ - US Transmit Failure < 25,DIA_e03a4135-dfe4-4e9a-b12b-8d2a6bb6fa62
+(empty),1,FALSE,PHTFailDiag,DIA_51ed2014-fef2-4d2f-be5e-460a581bd2e3
+(empty),1,FALSE,CreateDiagTest,DIA_cf5ea960-d972-4426-985f-5fb8e9433979
 (empty),1,FALSE,NOT_SIK_ELIGIBLE_OVERRIDE,DIA_677a92ac-00aa-4167-8319-2361d93aca59
+(empty),1,FALSE,The customer has not accessed My Account,DIA_bfb3af41-cf6f-4236-aa75-210d385f903b
+(empty),1,FALSE,AutoCorrect_Flag3,DIA_88028597-e282-46ed-8799-87e1d2a20baa
+(empty),1,FALSE,Missing attribute or values,DIA_133838fc-f202-4538-b88b-6e8eff46864b
+(empty),1,FALSE,Feature in biller not in switch with International Block,DIA_51ba82a2-536b-468b-ac5e-9964e57d3c7c
+(empty),1,FALSE,Feature in biller and not switch,DIA_54abde23-6f53-40a3-9416-377146e50ee9
+(empty),1,FALSE,Account balance > 0,DIA_34d58ccb-3ccc-41a4-90b9-e89182a851eb
+(empty),1,FALSE,The customer is enrolled in Auto Pay,DIA_869e2a09-dd14-4636-bcd9-80520f6a2484
+Training - Sensor Low Battery Desc,1,FALSE,Training - Sensor Low Battery,DIA_90af0f3e-9783-4449-a3d9-4d834a14a4da
+(empty),1,FALSE,Not a Mismatch,DIA_4fe62c36-77ea-43a2-b6d0-21642dfccf3d
+(empty),1,FALSE,Device Type and Product mismatch,DIA_5f2e758d-28f6-4a24-a57f-a5812186d229
+(empty),1,FALSE,ABT - Service with no Equipment,DIA_293f1c11-a235-4e55-9384-bf213f2264e7
 (empty),1,FALSE,CreateDiagnosisTest,DIA_75e92552-7d29-41be-897a-9241b202af08
 (empty),1,FALSE,Boot file does not match billing product tier,DIA_1fcb23e7-ede3-4d62-8b8f-b9737d93e751
 (empty),1,FALSE,Bad Modem Health,DIA_0bebfdc7-fc17-4635-984b-c81df58a284f
 (empty),1,FALSE,regdiag,DIA_82ae3e61-9793-4001-b4da-42493e1e3738
 (empty),1,FALSE,AutoCorrect_Flag,DIA_4f6b9b0d-80f9-483f-9233-db4c5d4e10fa
-(empty),1,FALSE,OZ - DS RX < -10,DIA_0436a3e0-26a5-47e2-b21c-eba5fa2c2e3c
-(empty),1,FALSE,The customer has not accessed My Account,DIA_bfb3af41-cf6f-4236-aa75-210d385f903b
-(empty),1,FALSE,Account in Seasonal,DIA_4960f12f-430e-46ca-84af-43a3d2125288
-(empty),1,FALSE,No alternate contact TN found for account,DIA_0856cf02-cd58-4c1e-a39f-e08081cb4343
-(empty),1,FALSE,This account does not have a pin configured,DIA_aa186ac6-a8f5-46fa-b1b3-e826762a7815
-(empty),1,FALSE,NOT_SIK_ELIGIBLE,DIA_c93b8085-9b98-419b-97df-dc2626d55221
-(empty),1,FALSE,Validate UI controls,DIA_8fa7a7e0-3fab-43ed-a4f1-2c090a8ef8ec
-(empty),1,FALSE,Device has Walled Garden bootfile,DIA_c6da49a5-da8d-4cad-9a92-3cf68d6d811e
-(empty),1,FALSE,Device has Seasonal bootfile,DIA_3b9db4b9-5173-4a72-8de4-402075c77e99
-null,1,FALSE,Customer in Soft Disconnect,DIA_83985540-9cfd-4bbb-a391-f5ff9f839f29
-(empty),1,FALSE,The customer is not enrolled in Auto Pay,DIA_2b00d67f-ba77-4449-a45f-528b28b238fa
-(empty),1,FALSE,No alternate email found for account,DIA_4ae17405-c666-46ec-89b4-0480d84d251e
-(empty),1,FALSE,TICKET TEST,DIA_41f056e4-9656-4a30-9e5c-42e13b73a60d
-(empty),1,FALSE,Activate X1 Video Error,DIA_bc0fb71c-8974-4c58-b295-0fc43683de2b
-(empty),1,FALSE,User Name has not been created,DIA_3388f145-09b5-4ade-8032-34b65b78e03b
-(empty),1,FALSE,new test,DIA_d17314bd-23da-4a28-adfc-35a86fbdf510
-(empty),1,FALSE,OZ - US Transmit Failure < 25,DIA_e03a4135-dfe4-4e9a-b12b-8d2a6bb6fa62
-(empty),1,FALSE,CreateDiagTest,DIA_cf5ea960-d972-4426-985f-5fb8e9433979
 (empty),1,FALSE,OZ - US Transmit Failure > 57,DIA_e8773218-e642-4628-bbde-c472035c09e5
-(empty),1,FALSE,Device Type and Product mismatch,DIA_5f2e758d-28f6-4a24-a57f-a5812186d229
-(empty),1,FALSE,Testing,DIA_4728bc5e-1d55-4e77-8beb-f331e69e0405
-(empty),1,FALSE,Outages exist that may be associated to this location,DIA_d18fe7d1-c2ca-479f-8567-18e622f629e5
-(empty),1,FALSE,Defect is being tested,DIA_e507bf40-5a86-45ea-ab80-4cc0b618e59a
-(empty),1,FALSE,OZ Values Validation,DIA_fc446540-7bd5-4aa4-9ded-b30b4aeb77c3
-(empty),1,FALSE,Warm Transfer Override,DIA_c85bca4f-9d74-40a9-bf2d-f8302d6cb16f
-(empty),1,FALSE,Warm Transfer,DIA_1ee5decd-59c7-4be1-bb2a-2854988cd348
-(empty),1,FALSE,PHTFailDiag,DIA_51ed2014-fef2-4d2f-be5e-460a581bd2e3
 (empty),1,FALSE,OZ - US RX < -3.5,DIA_1ac5953d-5122-44b9-9db1-2d583ba4fce1
 (empty),1,FALSE,OZ - CM US SNR < 27,DIA_d7bb9498-5dc3-42f4-a285-9c51a004c857
 (empty),1,FALSE,OZ - ICFR > 7,DIA_ee3a3dc9-f840-4b3e-967d-f800b2ef9e91
 (empty),1,FALSE,OZ - DS SNR < 32,DIA_a41426be-b6d3-497d-8335-fcf88e497e36
 (empty),1,FALSE,OZ - DS RX > 12,DIA_e4049fd0-c76a-43a0-b8db-ca709f320905
 (empty),1,FALSE,Sensor Low Battery Issue,DIA_a30d3a8e-c4ac-4e61-bc34-025ce7168c42
+(empty),1,FALSE,Defect is being tested,DIA_e507bf40-5a86-45ea-ab80-4cc0b618e59a
 (empty),1,FALSE,Test Diagonsis,DIA_aded680e-c9d5-4bc7-9cd3-cfdc6f0cd37c
-(empty),1,FALSE,AutoCorrect_Flag3,DIA_88028597-e282-46ed-8799-87e1d2a20baa
-(empty),1,FALSE,Missing attribute or values,DIA_133838fc-f202-4538-b88b-6e8eff46864b
-(empty),1,FALSE,Feature in biller not in switch with International Block,DIA_51ba82a2-536b-468b-ac5e-9964e57d3c7c
-(empty),1,FALSE,Not a Mismatch,DIA_4fe62c36-77ea-43a2-b6d0-21642dfccf3d
-(empty),1,FALSE,Account balance > 0,DIA_34d58ccb-3ccc-41a4-90b9-e89182a851eb
-(empty),1,FALSE,The customer is enrolled in Auto Pay,DIA_869e2a09-dd14-4636-bcd9-80520f6a2484
-Training - Sensor Low Battery Desc,1,FALSE,Training - Sensor Low Battery,DIA_90af0f3e-9783-4449-a3d9-4d834a14a4da
-(empty),1,FALSE,ABT - Service with no Equipment,DIA_293f1c11-a235-4e55-9384-bf213f2264e7
-(empty),1,FALSE,Feature in biller and not switch,DIA_54abde23-6f53-40a3-9416-377146e50ee9
+(empty),1,FALSE,OZ - DS RX < -10,DIA_0436a3e0-26a5-47e2-b21c-eba5fa2c2e3c
+(empty),1,FALSE,OZ Values Validation,DIA_fc446540-7bd5-4aa4-9ded-b30b4aeb77c3
